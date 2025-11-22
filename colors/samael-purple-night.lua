@@ -1,1 +1,1 @@
-require("samael-purple-night").colorscheme()
+require("samael_purple_night").colorscheme()
